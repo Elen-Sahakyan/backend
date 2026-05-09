@@ -1,0 +1,1 @@
+module.exports = ['folder1/folder1_1', 'folder2'];

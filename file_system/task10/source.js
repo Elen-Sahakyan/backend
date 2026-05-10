@@ -1,0 +1,6 @@
+module.exports = {
+    name: 'Bob',
+    age: 22,
+    city: 'Yerevan',
+    country: 'Armenia'
+}

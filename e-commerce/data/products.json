@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1779558374938,
+    "name": "hair conditioner",
+    "description": "High resistance up to 72 hours. Super hold up to 120 hours. Flake-free & fast-drying.",
+    "price": 60.99,
+    "quantity": 2
+  },
+  {
+    "id": 500,
+    "name": "other item",
+    "description": "High resistance up to 72 hours. Super hold up to 120 hours. Flake-free & fast-drying.",
+    "price": 55.99,
+    "quantity": 6
+  }
+]

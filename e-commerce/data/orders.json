@@ -1,0 +1,35 @@
+[
+  {
+    "orderId": 1779633510134,
+    "userId": 1,
+    "orderDate": "2026-05-24T14:38:30.134Z",
+    "totalAmount": 467.92,
+    "status": "PENDING",
+    "items": [
+      {
+        "itemId": 1779558374938,
+        "quantity": 4,
+        "price": 60.99
+      },
+      {
+        "itemId": 500,
+        "quantity": 4,
+        "price": 55.99
+      }
+    ]
+  },
+  {
+    "orderId": 1779633548432,
+    "userId": 1,
+    "orderDate": "2026-05-24T14:39:08.432Z",
+    "totalAmount": 243.96,
+    "status": "SHIPPED",
+    "items": [
+      {
+        "itemId": 1779558374938,
+        "quantity": 4,
+        "price": 60.99
+      }
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "userId": "u_1779798697526",
+    "username": "elen",
+    "hashedPassword": "$2b$10$bJkzAs259v35B3PdefoaO.SnXIg7mHZYQ7J03NVuPFngVVds4m9OW",
+    "createdAt": "2026-05-26T12:31:37.605Z"
+  },
+  {
+    "userId": "u_1779799787374",
+    "username": "jane",
+    "hashedPassword": "$2b$10$lRX3xGgTASNZU9rg2BHICeiI4g/5TtXMp4DXwVuewg.10jT81mIgC",
+    "createdAt": "2026-05-26T12:49:47.454Z"
+  }
+]

@@ -1,0 +1,1 @@
+exports.generateId = (prefix = '') => prefix + Date.now();

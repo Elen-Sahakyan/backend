@@ -1,0 +1,27 @@
+require('dotenv').config({ quiet: true });
+
+const {
+    PORT,
+    HOST,
+    DB_URL,
+    BCRYPT_ROUNDS,
+    JWT_ACCESS_SECRET,
+    JWT_ACCESS_EXPIRATION,
+    JWT_REFRESH_SECRET,
+    JWT_REFRESH_EXPIRATION,
+    ORGANIZER_EMAIL,
+    ORGANIZER_PASSWORD
+} = process.env;
+
+module.exports = {
+    PORT,
+    HOST,
+    DB_URL,
+    BCRYPT_ROUNDS,
+    JWT_ACCESS_SECRET,
+    JWT_ACCESS_EXPIRATION,
+    JWT_REFRESH_SECRET,
+    JWT_REFRESH_EXPIRATION,
+    ORGANIZER_EMAIL,
+    ORGANIZER_PASSWORD
+}
